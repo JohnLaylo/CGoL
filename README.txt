@@ -1,3 +1,6 @@
+LINK: https://johnlaylo.github.io/CGoL/index.html
+
+
 Material Design for Bootstrap
 
 Version: MDB Free 4.8.11
