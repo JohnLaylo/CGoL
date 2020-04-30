@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "json": "^9.0.6",
     "popper": "^1.0.1",
     "ts-node": "^8.5.4",
